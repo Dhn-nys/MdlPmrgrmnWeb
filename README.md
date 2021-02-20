@@ -21,6 +21,7 @@
             <td><a href="/Bagian1/Modul02/">02. Instalasi Apache dan PHP di Windows</a></td>
             <td><a href="/Bagian1/Modul03/">03. Instalasi Apache dan PHP di Linux (Ubuntu)</a></td>
         </tr>
+          </tbody>
         <tr>
             <th colspan="3">PHP ESSENTIAL</th>
         </tr>
@@ -51,7 +52,23 @@
             <td><a href="/Bagian2/Modul16/">16. Pengiriman Email</a></td>
             <td><a href="#">-</a></td>
         </tr>
-    </tbody>
+          </tbody>
+      <tr>
+            <th colspan="3">Workshop</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="/Bagian3/Modul17/">17. Workshop 1: Membuat Otentikasi User</a></td>
+            <td><a href="/Bagian3/Modul18/">18. Workshop 2: Membuat Buku Tamu</a></td>
+            <td><a href="/Bagian3/Modul19/">19. Workshop 3: Membuat PAgination (Paging)</a></td>
+        </tr>
+         <tr>
+            <td><a href="/Bagian3/Modul20/">20. Workshop 4: Menyimpan dan Menampilkan Gambar ke/dari Database</a></td>
+            <td><a href="/Bagian3/Modul21/">08. Workshop 5: Membuat Gambar Captcha</a></td>
+           <td><a href="#">-</a></td>
+        </tr>
+      </tbody>
 </table>
 </details>
 
