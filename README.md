@@ -65,7 +65,7 @@
         </tr>
          <tr>
             <td><a href="/Bagian3/Modul20/">20. Workshop 4: Menyimpan dan Menampilkan Gambar ke/dari Database</a></td>
-            <td><a href="/Bagian3/Modul21/">08. Workshop 5: Membuat Gambar Captcha</a></td>
+            <td><a href="/Bagian3/Modul21/">21. Workshop 5: Membuat Gambar Captcha</a></td>
            <td><a href="#">-</a></td>
         </tr>
       </tbody>
